@@ -1,0 +1,21 @@
+p{
+    width: 340px;
+    height: 70px;
+    border: 5px solid gray;
+    margin: 10px;
+}
+img{
+    width: 350px;
+    height: 350px;
+    margin: 10px;
+}
+.one{
+    background-color: rgb(226, 71, 71);
+}
+.two{
+    background-color: rgb(65, 65, 224);
+}
+*{
+    margin: 0;
+    font-size: 50px;
+}
